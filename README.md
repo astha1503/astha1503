@@ -1,5 +1,4 @@
 ## Hi there 👋
-# hey there 👋
 
 i'm astha — a lazy girl with big dreams   
 currently learning c++, dsa, and trying to understand what machine learning actually means
