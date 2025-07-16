@@ -7,12 +7,6 @@ currently learning c++, dsa, and trying to understand what machine learning actu
 - debugging my life and my code 
 - building random projects 
 
-### tech i'm playing with
-- c++, c
-- sql (baby steps)
-- python (a lil)
-- html/css (vibes only)
-
 ### fun facts
 - i like cycling 🚴‍♀️
 - i can't do a proper push-up... yet
